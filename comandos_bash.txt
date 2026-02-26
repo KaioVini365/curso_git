@@ -3,3 +3,6 @@ cd -> move entre diretórios
 pwd -> mostra diretório de trabalho
 cat > exibe conteúdo
 rm > exclui arquivo ou dir
+rm - rf > remove de forma recursiva e forçada todos os diretórios
+
+ 
