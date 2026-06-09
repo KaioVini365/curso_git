@@ -1,8 +1,14 @@
+<<<<<<< HEAD
 git init .      >> cria um repo git na pasta atual
 git status      >> mostra o status do trabalho
 git commit -m    >> faz commit do que estava para ser commitado
+=======
+git init .         >> Cria um repo git na pasta atual
+git status         >> Mostra o status do trabalho
+git commit -m      >> Faz commit do que estava para ser commitado
+>>>>>>> ana
 git add >> adiciona arquivo que estava para ser commitado
-git log >> mostra todo o histórico de commits
+git log >> Mostra todo o histórico de commits
 
 ## FLUXO DE TRABALHO 
 
